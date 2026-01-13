@@ -1,0 +1,8 @@
+crewai
+qdrant-client
+supabase
+cipher
+n8n-python-sdk
+python-dotenv
+fastapi
+uvicorn
